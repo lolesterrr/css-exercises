@@ -1,0 +1,11 @@
+/* this is a stylesheet */
+#redone {
+    background-color: red;
+
+}
+.text {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+}
