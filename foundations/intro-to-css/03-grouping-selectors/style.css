@@ -1,0 +1,13 @@
+
+
+.classB.ClassA{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif ;
+
+}
+.classB {background-color: yellow;
+}
+.classA{
+    background-color: black;
+    color: white;
+}

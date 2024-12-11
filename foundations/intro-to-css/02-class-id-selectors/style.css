@@ -1,0 +1,19 @@
+/* this is a stylesheet */
+.classA {
+    background-color:hsl(345, 62%, 75%);
+    font-family: Verdana,DejaVu Sans, sans-serif;
+}
+
+#idA {
+    color:hsl(221, 54%, 50%);
+    font-size: 36px;
+}
+.classAA {
+    font-size: 24px;
+
+}
+#idB {
+    background-color: hsl(140, 92%, 65%);
+    font-size: 24px;
+    font-weight: bold;
+}
