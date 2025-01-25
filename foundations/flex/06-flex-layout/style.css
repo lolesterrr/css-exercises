@@ -23,4 +23,46 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+  margin-left: 80px;
 }
+
+ul {
+  list-style-type: none;
+  display: inline-flex;
+  gap: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+
+.footer {
+  display: inline-flex;
+  flex-direction: column;
+  background-color: rgb(180, 180, 180);
+  color: gray;
+  position: absolute;
+  bottom: 0%; 
+  width: 10000px; 
+
+
+  
+}
+
+.leftlinks {
+
+}
+
+.rightlinks {
+
+
+}
+
+.contented {
+  display: flex;
+  justify-content: center ;
+  justify-items: center;
+  align-items: center;
+}
+
